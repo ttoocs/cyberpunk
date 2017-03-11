@@ -37,7 +37,8 @@ if [ $# -ne 1 ]; then
   B=$(personality_trait_to_str $A)
   echo $A - $B
 else
-  personality_trait_to_str $1
+  B=$(personality_trait_to_str $1)
+  echo $1 - $B
 fi
 
 
