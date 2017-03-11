@@ -1,0 +1,26 @@
+#Non-biased D10 rolls:
+#Used for CharacterPoints.
+[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 11)); done
+8
+3
+10
+5
+10
+9
+7
+8
+5
+
+#Biased rolls (0..7) + 3, ie, cannot roll 1 or 2.
+#Used for stats:
+[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 8 + 3)); done
+7     -Luck
+6     -MA
+7     -Cool
+9     -Emp
+8     -Tech
+5     -Leap
+10    -Int
+9     -Ref
+5     -Attr
+
