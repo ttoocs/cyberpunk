@@ -85,9 +85,55 @@ Age: 23
 #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
 
 
-#Friends&Enemies: (10 (Enemy), 10 (male), 9 (Corporate Exec), 9 ( Was a romatic rival ), 4 (they hate you), 9 (Rip into him verbally), 5 ( Himself and a few friends) ) 
-#Friends&Enemies:
-#Friends&Enemies:
-#Friends&Enemies:
+#Friends&Enemies: (10 (Enemy), 10 (male), 9 (Corporate Exec), 9 ( Was a romatic rival ), 4 (they hate you), 9 (Rip into him verbally), 5 ( Himself and a few friends) - Bruce. 
+
+#Friends&Enemies: (10 (Enemy), 2 (male), 3 (Minor humiliation), 8 (Mutual),  3 (avoid the scum), 3 (Just himself) ) - Bob
+
+#Friends&Enemies: (5 (Freind), 8 (male), 7 (Like a foster parent to you), Alfred
+
+#Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
 
 
+FRENEMY: E1 - Bruce
+CLOTHES: 6
+HAIR: 3
+AFFECT: 9
+ETHNIC: 1
+TRAIT: 4
+VALUED PERSON: 7
+VALUED MOST: 8
+PEOPLE FEELS: 7
+VALUED POSSESSION: 5
+
+FRENEMY:  - Bob
+CLOTHES: 1
+HAIR: 7
+AFFECT: 10
+ETHNIC: 1
+TRAIT: 4
+VALUED PERSON: 9
+VALUED MOST: 7
+PEOPLE FEELS: 9
+VALUED POSSESSION: 3
+
+FRENEMY:  - Alfred
+CLOTHES: 8
+HAIR: 4
+AFFECT: 4
+ETHNIC: 7
+TRAIT: 8
+VALUED PERSON: 6
+VALUED MOST: 5
+PEOPLE FEELS: 8
+VALUED POSSESSION: 5
+
+FRENEMY:  - Barbra
+CLOTHES: 9
+HAIR: 2
+AFFECT: 7
+ETHNIC: 9
+TRAIT: 8
+VALUED PERSON: 2
+VALUED MOST: 8
+PEOPLE FEELS: 8
+VALUED POSSESSION: 7
