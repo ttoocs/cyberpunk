@@ -93,47 +93,50 @@ Age: 23
 
 #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
 
+#Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled.
+#FFS ANOTHER FRENIMEY.
+
 
 FRENEMY: E1 - Bruce
-CLOTHES: 6
-HAIR: 3
-AFFECT: 9
-ETHNIC: 1
-TRAIT: 4
-VALUED PERSON: 7
-VALUED MOST: 8
-PEOPLE FEELS: 7
-VALUED POSSESSION: 5
+CLOTHES: 6 - High Fashion
+HAIR: 3 - Short & Spiked
+AFFECT: 9 - Weird Contact Lenses
+ETHNIC: 1 - Anglo-American
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 7 - Teacher or mentor
+VALUED MOST: 8 - Power
+PEOPLE FEELS: 7 - People are obstacle to be destroyed if they cross me
+VALUED POSSESSION: 5 - A book or diary
 
-FRENEMY:  - Bob
-CLOTHES: 1
-HAIR: 7
-AFFECT: 10
-ETHNIC: 1
-TRAIT: 4
-VALUED PERSON: 9
-VALUED MOST: 7
-PEOPLE FEELS: 9
-VALUED POSSESSION: 3
+FRENEMY: - Bob
+CLOTHES: 1 - Biker learthers
+HAIR: 7 - Tinted
+AFFECT: 10 - Fingerless gloves 
+ETHNIC: 1 - Anglo-American 
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 9 - A personal hero
+VALUED MOST: 7 - Love
+PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
+VALUED POSSESSION: 3 - A piece of clothing
 
 FRENEMY:  - Alfred
-CLOTHES: 8
-HAIR: 4
-AFFECT: 4
-ETHNIC: 7
-TRAIT: 8
-VALUED PERSON: 6
-VALUED MOST: 5
-PEOPLE FEELS: 8
-VALUED POSSESSION: 5
+CLOTHES: 8 - Normal clothes
+HAIR: 4 - Wild & all over 
+AFFECT: 4 - Spiked gloves
+ETHNIC: 7 - Black American (blackfolk)
+TRAIT: 8 - Sneaky and deceptive
+VALUED PERSON: 6 - A pet
+VALUED MOST: 5 - Knowledge
+PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
+VALUED POSSESSION: 5 - A book or diary
 
 FRENEMY:  - Barbra
-CLOTHES: 9
-HAIR: 2
-AFFECT: 7
-ETHNIC: 9
-TRAIT: 8
-VALUED PERSON: 2
-VALUED MOST: 8
-PEOPLE FEELS: 8
-VALUED POSSESSION: 7
+CLOTHES: 9 - Nude
+HAIR: 2 - Long & Ratty
+AFFECT: 7 - Long fingernails
+ETHNIC: 9 - Central/South American (Spanish, Portuguese)
+TRAIT: 8 - Sneaky and deceptive
+VALUED PERSON: 2 - Brother or sister
+VALUED MOST: 8 - Power
+PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
+VALUED POSSESSION: 7 - A musical instrument
