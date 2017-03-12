@@ -41,6 +41,8 @@ Lift: 200
 Save: 5
 BTM: -2
 
+BT: BodyType: Average.
+BTM: body type modifier: -2
 
 #LIFEPATH:
 #for i in {1..3}; do ./d10.sh ; done
@@ -97,4 +99,9 @@ Year :  Event
       #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
     7: Big probs: Imprisonment for 4 months.
       #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
+
+#Special level : 6 -> 2k/month.
+#ROll: 5 (d6)
+#Cache: $3333 #See gear
+Employed: (rolled a 4)
 
