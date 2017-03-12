@@ -15,12 +15,17 @@ Programming: 5
 Pickup: (Ref + Int) # NOT ALLOWED FOR CAREER.
 #Int: 10, REF:9 = 19.
 
-Hide/Evade: 2
-Library Search: 4
-Teaching: 2
-Accounting: 2
-Athletics: 2
+Wardrobe & Style: 1
+Streetwise: 2
+Human Perception: 2
+Persuasion & fast talk: 4
+
+Hide/Evade: 1
+Library Search: 1
+Teaching: 1
+Accounting: 1
+Athletics: 1
 Handgun: 2
-Brawling: 2
-Electronic Security: 3
+Brawling: 1
+Electronic Security: 2
 
