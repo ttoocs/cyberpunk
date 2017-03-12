@@ -1,34 +1,34 @@
 func(){
   case $1 in 
     1)
-      echo "A parent"
+      echo "Tatoos"
       ;;
     2)
-      echo "Brother or sister"
+      echo "Mirrorshades"
       ;;
     3)
-      echo "Lover"
+      echo "Ritual Scars"
       ;;
     4)
-      echo "Friend"
+      echo "Spiked gloves"
       ;;
     5)
-      echo "Yourself"
+      echo "Nose Rings"
       ;;
     6)
-      echo "A pet"
+      echo "Earrings"
       ;;
     7)
-      echo "Teacher or mentor"
+      echo "Long fingernails"
       ;;
     8)
-      echo "Public figure"
+      echo "Spike heeled boots"
       ;;
     9)
-      echo "A personal hero"
+      echo "Weird Contact Lenses"
       ;;
     10)
-      echo "No one"
+      echo "Fingerless gloves"
       ;;
   esac
 }

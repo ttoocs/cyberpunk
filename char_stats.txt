@@ -93,9 +93,7 @@ Age: 23
 
 #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
 
-#Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled.
-#FFS ANOTHER FRENIMEY.
-
+#Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled. Retry: Nope.
 
 FRENEMY: E1 - Bruce
 CLOTHES: 6 - High Fashion
@@ -140,3 +138,15 @@ VALUED PERSON: 2 - Brother or sister
 VALUED MOST: 8 - Power
 PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
 VALUED POSSESSION: 7 - A musical instrument
+
+
+FRENEMY: Sara
+CLOTHES: 2 - Blue jeans
+HAIR: 7 - Tinted
+AFFECT: 4 - Spiked gloves
+ETHNIC: 6 - Chinese/Souteat Asian (Brumese, Cantonese, Mandarin, Thai, Tibetan, Vietnamese)
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 6 - A pet
+VALUED MOST: 7 - Love
+PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
+VALUED POSSESSION: 9 - A toy

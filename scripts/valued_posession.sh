@@ -1,34 +1,34 @@
 func(){
   case $1 in 
     1)
-      echo "A parent"
+      echo "A weapon"
       ;;
     2)
-      echo "Brother or sister"
+      echo "A tool"
       ;;
     3)
-      echo "Lover"
+      echo "A piece of clothing"
       ;;
     4)
-      echo "Friend"
+      echo "A photograph"
       ;;
     5)
-      echo "Yourself"
+      echo "A book or diary"
       ;;
     6)
-      echo "A pet"
+      echo "A recording"
       ;;
     7)
-      echo "Teacher or mentor"
+      echo "A musical instrument"
       ;;
     8)
-      echo "Public figure"
+      echo "A piece of jewelry"
       ;;
     9)
-      echo "A personal hero"
+      echo "A toy"
       ;;
     10)
-      echo "No one"
+      echo "A letter"
       ;;
   esac
 }

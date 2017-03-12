@@ -1,34 +1,34 @@
 func(){
   case $1 in 
     1)
-      echo "A parent"
+      echo "Mohawk"
       ;;
     2)
-      echo "Brother or sister"
+      echo "Long & Ratty"
       ;;
     3)
-      echo "Lover"
+      echo "Short & Spiked"
       ;;
     4)
-      echo "Friend"
+      echo "Wild & all over"
       ;;
     5)
-      echo "Yourself"
+      echo "Bald"
       ;;
     6)
-      echo "A pet"
+      echo "Striped"
       ;;
     7)
-      echo "Teacher or mentor"
+      echo "Tinted"
       ;;
     8)
-      echo "Public figure"
+      echo "Neat, short"
       ;;
     9)
-      echo "A personal hero"
+      echo "Short, curly"
       ;;
     10)
-      echo "No one"
+      echo "Long, straight"
       ;;
   esac
 }

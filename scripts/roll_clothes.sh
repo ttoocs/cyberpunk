@@ -1,34 +1,34 @@
 func(){
   case $1 in 
     1)
-      echo "A parent"
+      echo "Biker leather"
       ;;
     2)
-      echo "Brother or sister"
+      echo "Blue jeans"
       ;;
     3)
-      echo "Lover"
+      echo "Corporate Suits"
       ;;
     4)
-      echo "Friend"
+      echo "Jumpsuits"
       ;;
     5)
-      echo "Yourself"
+      echo "Miniskirts"
       ;;
     6)
-      echo "A pet"
+      echo "High Fashion"
       ;;
     7)
-      echo "Teacher or mentor"
+      echo "Cammos"
       ;;
     8)
-      echo "Public figure"
+      echo "Normal clothes"
       ;;
     9)
-      echo "A personal hero"
+      echo "Nude"
       ;;
     10)
-      echo "No one"
+      echo "Bag Lady chic"
       ;;
   esac
 }

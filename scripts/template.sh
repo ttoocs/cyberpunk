@@ -1,34 +1,34 @@
 func(){
   case $1 in 
     1)
-      echo "A parent"
+      echo ""
       ;;
     2)
-      echo "Brother or sister"
+      echo ""
       ;;
     3)
-      echo "Lover"
+      echo ""
       ;;
     4)
-      echo "Friend"
+      echo ""
       ;;
     5)
-      echo "Yourself"
+      echo ""
       ;;
     6)
-      echo "A pet"
+      echo ""
       ;;
     7)
-      echo "Teacher or mentor"
+      echo ""
       ;;
     8)
-      echo "Public figure"
+      echo ""
       ;;
     9)
-      echo "A personal hero"
+      echo ""
       ;;
     10)
-      echo "No one"
+      echo ""
       ;;
   esac
 }
