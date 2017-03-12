@@ -1,28 +1,28 @@
 #Non-biased D10 rolls:
 #Used for CharacterPoints.
-[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 11)); done
-8
-3
-10
-5
-10
-9
-7
-8
-5
+#[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 11)); done
+#8
+#3
+#10
+#5
+#10
+#9
+#7
+#8
+#5
 
 #Biased rolls (0..7) + 3, ie, cannot roll 1 or 2.
 #Used for stats:
-[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 8 + 3)); done
-7     -Luck
-6     -MA   -> Run 18, Leap 4.5 -> 5
-7     -Cool
-9     -Emp
-8     -Tech
-5     -Body
-10    -Int
-9     -Ref
-5     -Attr
+#[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 8 + 3)); done
+#7     -Luck
+#6     -MA   -> Run 18, Leap 4.5 -> 5
+#7     -Cool
+#9     -Emp
+#8     -Tech
+#5     -Body
+#10    -Int
+#9     -Ref
+#5     -Attr
 
 Giving:
 Int: 10
@@ -81,26 +81,20 @@ Age: 23
 # 4 friends&Enemies
 # 1 Romatics
 
-#Big probs: (7 (False Accusation) , 2 (theft), 8 (Whats rightfully yours))
-#Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
-
-#Friends&Enemies: (10 (Enemy), 10 (male), 9 (Corporate Exec), 9 ( Was a romatic rival ), 4 (they hate you), 9 (Rip into him verbally), 5 ( Himself and a few friends) - Bruce. 
-
-#Friends&Enemies: (10 (Enemy), 2 (male), 3 (Minor humiliation), 8 (Mutual),  3 (avoid the scum), 3 (Just himself) ) - Bob
-
-#Friends&Enemies: (5 (Freind), 8 (male), 7 (Like a foster parent to you), Alfred
-
-#Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
-
-#Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled. Retry: Nope.
-
 Life events:
 Year :  Event
     1: Fremie: Male enemy made - Bruce.
+      #Friends&Enemies: (10 (Enemy), 10 (male), 9 (Corporate Exec), 9 ( Was a romatic rival ), 4 (they hate you), 9 (Rip into him verbally), 5 ( Himself and a few friends) - Bruce. 
     2: Fremie: Male enemy made - Bob.
+      #Friends&Enemies: (10 (Enemy), 2 (male), 3 (Minor humiliation), 8 (Mutual),  3 (avoid the scum), 3 (Just himself) ) - Bob
     3: Romatic: Tragic love affir, Lover exiled.
+       #Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled. Retry: Nope.
     4: Fremie: Male friend made - Alfread.
+       #Friends&Enemies: (5 (Freind), 8 (male), 7 (Like a foster parent to you), Alfred
     5: Big probs: False Accusation of Theft.
+      #Big probs: (7 (False Accusation) , 2 (theft), 8 (Whats rightfully yours))
     6: Fremie: Female enemy made - Barbra.
+      #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
     7: Big probs: Imprisonment for 4 months.
+      #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
 
