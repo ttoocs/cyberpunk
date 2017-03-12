@@ -84,7 +84,6 @@ Age: 23
 #Big probs: (7 (False Accusation) , 2 (theft), 8 (Whats rightfully yours))
 #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
 
-
 #Friends&Enemies: (10 (Enemy), 10 (male), 9 (Corporate Exec), 9 ( Was a romatic rival ), 4 (they hate you), 9 (Rip into him verbally), 5 ( Himself and a few friends) - Bruce. 
 
 #Friends&Enemies: (10 (Enemy), 2 (male), 3 (Minor humiliation), 8 (Mutual),  3 (avoid the scum), 3 (Just himself) ) - Bob
@@ -95,58 +94,13 @@ Age: 23
 
 #Romantic: 5 - Tragic love affair, 10 - Lover imprisoned or exiled. Retry: Nope.
 
-FRENEMY: E1 - Bruce
-CLOTHES: 6 - High Fashion
-HAIR: 3 - Short & Spiked
-AFFECT: 9 - Weird Contact Lenses
-ETHNIC: 1 - Anglo-American
-TRAIT: 4 - Moody, rash and headstrong
-VALUED PERSON: 7 - Teacher or mentor
-VALUED MOST: 8 - Power
-PEOPLE FEELS: 7 - People are obstacle to be destroyed if they cross me
-VALUED POSSESSION: 5 - A book or diary
+Life events:
+Year :  Event
+    1: Fremie: Male enemy made - Bruce.
+    2: Fremie: Male enemy made - Bob.
+    3: Romatic: Tragic love affir, Lover exiled.
+    4: Fremie: Male friend made - Alfread.
+    5: Big probs: False Accusation of Theft.
+    6: Fremie: Female enemy made - Barbra.
+    7: Big probs: Imprisonment for 4 months.
 
-FRENEMY: - Bob
-CLOTHES: 1 - Biker learthers
-HAIR: 7 - Tinted
-AFFECT: 10 - Fingerless gloves 
-ETHNIC: 1 - Anglo-American 
-TRAIT: 4 - Moody, rash and headstrong
-VALUED PERSON: 9 - A personal hero
-VALUED MOST: 7 - Love
-PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
-VALUED POSSESSION: 3 - A piece of clothing
-
-FRENEMY:  - Alfred
-CLOTHES: 8 - Normal clothes
-HAIR: 4 - Wild & all over 
-AFFECT: 4 - Spiked gloves
-ETHNIC: 7 - Black American (blackfolk)
-TRAIT: 8 - Sneaky and deceptive
-VALUED PERSON: 6 - A pet
-VALUED MOST: 5 - Knowledge
-PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
-VALUED POSSESSION: 5 - A book or diary
-
-FRENEMY:  - Barbra
-CLOTHES: 9 - Nude
-HAIR: 2 - Long & Ratty
-AFFECT: 7 - Long fingernails
-ETHNIC: 9 - Central/South American (Spanish, Portuguese)
-TRAIT: 8 - Sneaky and deceptive
-VALUED PERSON: 2 - Brother or sister
-VALUED MOST: 8 - Power
-PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
-VALUED POSSESSION: 7 - A musical instrument
-
-
-FRENEMY: Sara
-CLOTHES: 2 - Blue jeans
-HAIR: 7 - Tinted
-AFFECT: 4 - Spiked gloves
-ETHNIC: 6 - Chinese/Souteat Asian (Brumese, Cantonese, Mandarin, Thai, Tibetan, Vietnamese)
-TRAIT: 4 - Moody, rash and headstrong
-VALUED PERSON: 6 - A pet
-VALUED MOST: 7 - Love
-PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
-VALUED POSSESSION: 9 - A toy

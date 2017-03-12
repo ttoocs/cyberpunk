@@ -1,0 +1,51 @@
+
+FRENEMY: E1 - Bruce
+CLOTHES: 6 - High Fashion
+HAIR: 3 - Short & Spiked
+AFFECT: 9 - Weird Contact Lenses
+ETHNIC: 1 - Anglo-American
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 7 - Teacher or mentor
+VALUED MOST: 8 - Power
+PEOPLE FEELS: 7 - People are obstacle to be destroyed if they cross me
+VALUED POSSESSION: 5 - A book or diary
+
+FRENEMY: - Bob
+CLOTHES: 1 - Biker learthers
+HAIR: 7 - Tinted
+AFFECT: 10 - Fingerless gloves 
+ETHNIC: 1 - Anglo-American 
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 9 - A personal hero
+VALUED MOST: 7 - Love
+PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
+VALUED POSSESSION: 3 - A piece of clothing
+
+FRENEMY:  - Alfred
+CLOTHES: 8 - Normal clothes
+HAIR: 4 - Wild & all over 
+AFFECT: 4 - Spiked gloves
+ETHNIC: 7 - Black American (blackfolk)
+TRAIT: 8 - Sneaky and deceptive
+VALUED PERSON: 6 - A pet
+VALUED MOST: 5 - Knowledge
+PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
+VALUED POSSESSION: 5 - A book or diary
+
+FRENEMY:  - Barbra
+CLOTHES: 9 - Nude
+HAIR: 2 - Long & Ratty
+AFFECT: 7 - Long fingernails
+ETHNIC: 9 - Central/South American (Spanish, Portuguese)
+TRAIT: 8 - Sneaky and deceptive
+VALUED PERSON: 2 - Brother or sister
+VALUED MOST: 8 - Power
+PEOPLE FEELS: 8 - People are untrustworthy. Don't depend on anyone
+VALUED POSSESSION: 7 - A musical instrument
+
+FRENEMY: Sara
+CLOTHES: 2 - Blue jeans
+HAIR: 7 - Tinted
+AFFECT: 4 - Spiked gloves
+ETHNIC: 6 - Chinese/Souteat Asian (Brumese, Cantonese, Mandarin, Thai, Tibetan, Vietnamese)
+TRAIT: 4 - Moody, rash and headstrong
