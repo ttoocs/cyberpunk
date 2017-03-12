@@ -1,8 +1,8 @@
 Special Abilities:
-Interface: 5
+Interface: 6
 
 Carrer:
-Awareness/Notice: 6
+Awareness/Notice: 5
 Basic Tech: 1
 Education: 5
 System Knowledge: 5
