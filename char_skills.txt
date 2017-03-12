@@ -1,0 +1,16 @@
+Special Abilities:
+Interface: 5
+
+Carrer:
+Awareness/Notice: 6
+Basic Tech: 3
+Education: 5
+System Knowledge: 5
+CyberTech: 7
+Cyberdeck Design: 4
+Composition: 0 
+Electronics: 4
+Programming: 5
+
+Pickup: (Ref + Int) # NOT ALLOWED FOR CAREER.
+
