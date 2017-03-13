@@ -49,3 +49,7 @@ HAIR: 7 - Tinted
 AFFECT: 4 - Spiked gloves
 ETHNIC: 6 - Chinese/Souteat Asian (Brumese, Cantonese, Mandarin, Thai, Tibetan, Vietnamese)
 TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 6 - A pet
+VALUED MOST: 5 - Knowledge
+PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
+VALUED POSSESSION: 4 - A photograph
