@@ -1,0 +1,11 @@
+
+FAM_RANK=`./gen_family_rank.sh`
+PARENTS=`./gen_parents.sh`
+
+#TODO: TRAGEDY
+#TODO: CHILDHOOD ENVIRONMENT
+#TODO: SIBLINGS
+
+echo "FAMILY: "$FAM_RANK
+echo "PARENTS: "$PARENTS
+
