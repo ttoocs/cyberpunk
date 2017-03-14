@@ -1,0 +1,34 @@
+#SEQUENCE: 8,11,11,8,9,13,8,10,5,
+#SUM: 83
+CharPoints: 60
+
+INT:
+REF:
+TECH:
+COOL:
+ATTR:
+LUCK:
+MA:
+BODY:
+EMP:
+
+#DERIVED
+RUN:
+LEAP:
+LIFT:
+SAVE:
+BTM:
+BT:
+
+
+
+FRENEMY: 
+CLOTHES: 7 - Cammos
+HAIR: 9 - Short, curly
+AFFECT: 9 - Weird Contact Lenses
+ETHNIC: 5 - Pacific Islander (Microneasian, Tagalog, Polynesian, Malayan, Sundanese, Indoesian, Hawaiian)
+TRAIT: 3 - Arrogant, proud and aloof
+VALUED PERSON: 6 - A pet
+VALUED MOST: 1 - Money
+PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
+VALUED POSSESSION: 10 - A letter
