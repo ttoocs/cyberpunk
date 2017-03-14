@@ -20,14 +20,16 @@ SAVE:
 BTM:
 BT:
 
-
-
-FRENEMY: 
 CLOTHES: 7 - Cammos
 HAIR: 9 - Short, curly
 AFFECT: 9 - Weird Contact Lenses
+
+FAMILY RANK:
+
+
 ETHNIC: 5 - Pacific Islander (Microneasian, Tagalog, Polynesian, Malayan, Sundanese, Indoesian, Hawaiian)
 TRAIT: 3 - Arrogant, proud and aloof
+
 VALUED PERSON: 6 - A pet
 VALUED MOST: 1 - Money
 PEOPLE FEELS: 9 - Wipe 'em all out and give the place to the cockroaches
