@@ -1,33 +1,22 @@
-#Non-biased D10 rolls:
-#Used for CharacterPoints.
-#[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 11)); done
-#8
-#3
-#10
-#5
-#10
-#9
-#7
-#8
-#5
-
 #Biased rolls (0..7) + 3, ie, cannot roll 1 or 2.
 #Used for stats:
 #[fu-fu@archlaptop ~]$ for i in {1..9}; do echo $((RANDOM % 8 + 3)); done
-#7     -Luck
-#6     -MA   -> Run 18, Leap 4.5 -> 5
-#7     -Cool
-#9     -Emp
-#8     -Tech
-#5     -Body
-#10    -Int
-#9     -Ref
-#5     -Attr
+#7     
+#6    
+#7     
+#9     
+#8     
+#5     
+#10    
+#9     
+#5     
+
+Class: Techie:
 
 Giving:
-Int: 10
-Ref: 9
-Tech: 8
+Int: 9
+Ref: 8
+Tech: 10
 Cool: 7
 Attr: 5
 Luck: 7
@@ -95,13 +84,54 @@ Year :  Event
        #Friends&Enemies: (5 (Freind), 8 (male), 7 (Like a foster parent to you), Alfred
     5: Big probs: False Accusation of Theft.
       #Big probs: (7 (False Accusation) , 2 (theft), 8 (Whats rightfully yours))
-    6: Fremie: Female enemy made - Barbra.
+    6: Fremie: Female enemy made - Lynna Jackstudt.
       #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
     7: Big probs: Imprisonment for 4 months.
       #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
 
-#Special level : 6 -> 2k/month.
-#ROll: 5 (d6)
-#Cache: $3333 #See gear
+
+
+
+#SKILLS
+
+#CARRER: (40)
+Jury Rig: 9
+
+Awareness/Notice: 4
+Basic Tech: 6
+CyberTech: 2
+Teaching: 3
+Education: 4
+Electronics: 5
+Gyro: 1
+Weapons: 3
+Electronic secutiry: 3
+
+#Char-Skills: (17)
+
+Streetwise: 1
+Human Perception: 1
+Interview: 1
+Gamble: 2
+Library Search: 3
+Programming: 2
+Athletics: 1
+Dodge & Escape: 2
+Handgun: 2
+Pick Lock: 1
+Pick Pocket: 1
+
+BY-CHIPS:
+  Personal Grooming: 3
+  Wardrobe & Style: 3
+  First aid: 3
+  Driving: 3
+
 Employed: (rolled a 4)
+
+
+Engineer: $5k/month
+#ROll: 5 (d6)
+#Cash: $8333.333 #See gear
+
 
