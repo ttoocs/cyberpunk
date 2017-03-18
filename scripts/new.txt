@@ -1,0 +1,74 @@
+##APPLY THESE MANNUALLY##
+STATS ROLL:
+SEQUENCE: 10,3,10,5,8,9,6,7,3,
+SUM: 61
+
+INT: 
+REF: 
+TECH: 
+COOL: 
+ATTR: 
+LUCK: 
+MA/MOVE: 
+BODY: 
+EMP: 
+
+#DERIVED: 
+RUN:  (Is MOVE * 3)
+LEAP:  (Is RUN / 4)
+LIFT:  (Is BODY * 40)
+SAVE:  (Is BODY)
+BT:  (If BODY <= 2 : Very Weak, 3-4: Weak, 5-7:Average, 8-9: Strong, 10: Very Strong
+BTM:  (If BT Very Weak: 0, Weak: -1, Average : -2, Strong: -3, Very Strong: -4, Superhuman: -5.)
+
+
+FAMILY: 8 - Combat Zone Poor
+PARENTS: 2 - Living
+CHILDHOOD: 3 - In a Nomad Pack moving from town to town
+
+Siblings: 9
+Sibling Sex: Male
+Sibling Age: 5 - Older
+Sibling's feelings about you: 7 - They hero worship you
+
+Sibling Sex: Male
+Sibling Age: 6 - Younger
+Sibling's feelings about you: 3 - Sibling likes you
+
+Sibling Sex: Male
+Sibling Age: 8 - Younger
+Sibling's feelings about you: 2 - Sibling dislikes you
+
+Sibling Sex: Male
+Sibling Age: 3 - Older
+Sibling's feelings about you: 4 - Sibling likes you
+
+Sibling Sex: Female
+Sibling Age: 5 - Older
+Sibling's feelings about you: 3 - Sibling likes you
+
+Sibling Sex: Male
+Sibling Age: 4 - Older
+Sibling's feelings about you: 2 - Sibling dislikes you
+
+Sibling Sex: Male
+Sibling Age: 3 - Older
+Sibling's feelings about you: 7 - They hero worship you
+
+Sibling Sex: Male
+Sibling Age: 3 - Older
+Sibling's feelings about you: 4 - Sibling likes you
+
+Sibling Sex: Male
+Sibling Age: 9 - Younger
+Sibling's feelings about you: 4 - Sibling likes you
+
+CLOTHES: 2 - Blue jeans
+HAIR: 1 - Mohawk
+AFFECT: 1 - Tatoos
+ETHNIC: 10 - European (French,German,English,Spanish,Italian,Greek,Danish,Dutch,Norwegian,Swedish,Finnish)
+TRAIT: 4 - Moody, rash and headstrong
+VALUED PERSON: 7 - Teacher or mentor
+VALUED MOST: 9 - Having a good time
+PEOPLE FEELS: 7 - People are obstacles to be destroyed if they cross me
+VALUED POSSESSION: 5 - A book or diary

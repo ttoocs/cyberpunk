@@ -1,9 +1,12 @@
 #GEAR: $8333.33
 
+House: $300/month
+
 Armor:
 Name                  Type          SP      Encumberance    
 Med Armor Jacket      Torso/arms    18      +1
 Flack Pants           Legs          20      +1
+Steel Helmet          Head          14      +1
 
 Tools:
 Tech toolkit: $100
@@ -22,6 +25,7 @@ Pistol Holster    $20
 First Aid Kit     $10
 Interface Cables  $50 x2
 
+HeadSets.
 
 #Weapons:
 #name,          type,  Accuracy, Conceablity, Availablity, Damage/ammo, Number of shots, rate of fire, Reliablity, Range, Cost
@@ -30,9 +34,12 @@ Federated arms X22, Pistol, 0,    P,          E,            1D6+1 (6mm),  10,   
 Avante P-1135 Needle gun, Pstol, 0, P,        P,            Drugs,        15,             2,            ST,         40m,   $200.00
 
 #Ammo:
-6mm: (40x100 shots)  $600
-Needle gun: (20*50 shots), $500
+6mm: (38x100 shots)  $600
 
+Needle gun: (10*50 shots), $250 (Sleep) -4
+Needle gun: (10*50 shots), $250 (BioToxin) 
+
++ Glock. (Gonna sell it.) 
 
 CYBER:
 NeuralWare (M), 1k ($500) (1D6: 2)
@@ -45,4 +52,4 @@ NeuralWare (M), 1k ($500) (1D6: 2)
     First Aid: $450 (lvl 3)
     Driving: $450 (lvl 3) 
 
-CYBER-TOTAL: $2800 Humanity: (-16)
+cyber-total: $2800 Humanity: (-16)

@@ -15,7 +15,7 @@ Class: Techie:
 
 Giving:
 Int: 9
-Ref: 8
+Ref: 8 - 1
 Tech: 10
 Cool: 7
 Attr: 5
@@ -23,6 +23,7 @@ Luck: 7
 MA: 6
 Body: 5
 Emp: 9
+
 #Dervied.
 Run: 18
 Leap: 5
@@ -85,26 +86,23 @@ Year :  Event
     5: Big probs: False Accusation of Theft.
       #Big probs: (7 (False Accusation) , 2 (theft), 8 (Whats rightfully yours))
     6: Fremie: Female enemy made - Lynna Jackstudt.
-      #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Caused the other to lose face or status), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
+      #Friends&Enemies: (9 (Enemy), 1 (female), 1 ( Ex lover, that I cheated on), 7 (I hate them), 9 (Rip into him verbally), 1 (Just herself)) - Barbra
     7: Big probs: Imprisonment for 4 months.
       #Big probs: (2 (Imprisonment), 4 (months), 6 (Hunt down those responsible and make them pay!) )
-
-
-
 
 #SKILLS
 
 #CARRER: (40)
 Jury Rig: 9
 
-Awareness/Notice: 4
+Awareness/Notice: 4 [1]
 Basic Tech: 6
 CyberTech: 2
 Teaching: 3
 Education: 4
 Electronics: 5
 Gyro: 1
-Weapons: 3
+Weapon smith: 3
 Electronic secutiry: 3
 
 #Char-Skills: (17)
@@ -117,7 +115,7 @@ Library Search: 3
 Programming: 2
 Athletics: 1
 Dodge & Escape: 2
-Handgun: 2
+Handgun: 2 [+3 IP]
 Pick Lock: 1
 Pick Pocket: 1
 
